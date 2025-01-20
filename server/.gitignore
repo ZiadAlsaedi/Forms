@@ -1,0 +1,16 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python bytecode
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore temporary files
+*.log
+*.bak
+*.swp
+
+# Ignore system-specific files
+.DS_Store   # macOS
+Thumbs.db   # Windows
